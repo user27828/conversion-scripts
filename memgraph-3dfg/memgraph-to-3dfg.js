@@ -1,5 +1,7 @@
 /**
  * Convert a memgraph export into a 3d-force-graph compatible blocks.json export
+ * Memgraph: https://memgraph.com/
+ * 3D Force Graph: https://github.com/vasturiano/3d-force-graph 
  * Example Usage:
  * node memgraph-to-3dfg.js --input memgraph-file.json --output blocks.json
  */
